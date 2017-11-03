@@ -1,0 +1,11 @@
+,data types,Missing Values,Present Values,Unique Values,Minimum Values,Maximum Values
+Player Id,int64,0,479,479,363,114042
+Tackles,int64,0,479,93,1,117
+wontackles,float64,0,479,197,0.0,1.0
+duels,int64,0,479,275,1,539
+wonduels,float64,0,479,405,0.166666667,1.0
+passes,int64,0,479,414,1,2656
+wonpasses,float64,0,479,458,0.1875,1.0
+interception,int64,0,479,87,0,103
+First_Name,object,0,479,457,0,0
+Last_Name,object,0,479,283,0,0
